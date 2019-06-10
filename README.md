@@ -19,7 +19,7 @@ Good to compare against other competitors.
 2. Book value 
 Balance sheet availble assets
 
-3.Price to Book(P/B)
+3. Price to Book(P/B)
 Ratio of stock price divided by assets, minus liabilities. 
 
 4. Price earnings to grwoth.
@@ -28,10 +28,10 @@ measure companies with same P/E against growth.
 5. Earnings before interest, tax, depreciation and amortization (EBITADA)
 profit before taxes & expenses
 
-6.Return on Equity -ROE
+6. Return on Equity -ROE
 ratio of net income divided by shareholder equity
 
-7.Forward Price Earnings P/E 
+7. Forward Price Earnings P/E 
 analyst prediction of future earnings.
 
 
