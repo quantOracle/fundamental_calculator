@@ -22,10 +22,6 @@ Balance sheet availble assets
 3.Price to Book(P/B)
 Ratio of stock price divided by assets, minus liabilities. 
 
-stockPrice 
-_____________________
-assets - liabilities
-
 4. Price earnings to grwoth.
 measure companies with same P/E against growth. 
 
